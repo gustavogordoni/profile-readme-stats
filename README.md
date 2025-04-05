@@ -29,6 +29,14 @@
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.6%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.8%25)
 
+---
+
+## 🐍 Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
