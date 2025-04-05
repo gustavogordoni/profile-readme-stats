@@ -20,10 +20,10 @@
 
 ## 💻 Linguagens mais usadas
 
-| Linguagem | Uso (%) | Cor | Badge |
-|----------|---------|------|--------|
-{{ LANGUAGE_TEMPLATE_START:max=5 }}| ![{{ LANGUAGE_NAME }}](https://img.shields.io/badge/-{{ LANGUAGE_NAME:uri }}-{{ LANGUAGE_COLOR:uri }}?style=flat-square&logo={{ LANGUAGE_NAME:uri }}&logoColor=white) | **{{ LANGUAGE_PERCENT }}%** | `{{ LANGUAGE_COLOR }}` | 🔹 |
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
+
 
 ---
 
