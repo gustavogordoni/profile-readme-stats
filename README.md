@@ -20,13 +20,15 @@
 
 ## 💻 Linguagens mais usadas
 
-| Linguagem | Uso (%) | Cor | Badge |
-|----------|---------|------|--------|
-| ![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat-square&logo=PHP&logoColor=white) | **29.6%** | `#4F5D95` | 🔹 |
-| ![Java](https://img.shields.io/badge/-Java-%23b07219?style=flat-square&logo=Java&logoColor=white) | **29%** | `#b07219` | 🔹 |
-| ![Blade](https://img.shields.io/badge/-Blade-%23f7523f?style=flat-square&logo=Blade&logoColor=white) | **20.3%** | `#f7523f` | 🔹 |
-| ![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=flat-square&logo=HTML&logoColor=white) | **13.2%** | `#e34c26` | 🔹 |
-| ![Other](https://img.shields.io/badge/-Other-%23ededed?style=flat-square&logo=Other&logoColor=white) | **7.7%** | `#ededed` | 🔹 |
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B129.6%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B129%25)
+![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B120.3%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B113.2%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B12.4%25)
+![Hack](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23878787&message=Hack%EF%B8%B11.7%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.8%25)
+
 
 ---
 
