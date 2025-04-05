@@ -24,7 +24,7 @@ jobs:
       - uses: ./
         with:
           token: ${{ secrets.USER_TOKEN }}
-          readme: './OUTPUT.md'
+          readme: './README.md'
       - name: Check Status
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
