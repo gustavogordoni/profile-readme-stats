@@ -1,33 +1,51 @@
-Account age: **1** years
+# 🧑‍💻 GitHub Profile Stats
 
-Pushed **221** commits
+👋 Oi! Aqui estão algumas estatísticas legais sobre minha conta no GitHub:
 
-Opened **0** issues
+---
 
-Submitted **12** pull requests
+## 📊 Estatísticas Gerais
 
-Reviewed **0** pull requests
+- 🗓️ Conta criada há: **1 anos**
+- 🧵 Issues abertas: **0**
+- 🔀 Pull Requests abertos: **12**
+- 👀 Code Reviews feitos: **0**
+- 🧬 Commits feitos: **221**
+- 📦 Gists públicos: **0**
+- 📚 Repositórios totais: **18**
+- 🤝 Repositórios que contribui: **0**
+- ⭐ Estrelas recebidas: **0**
 
-Received **0** stars
+---
 
-Own **18** repositories
+## 💻 Linguagens mais usadas
 
-Contributed to **0** public repositories
+### 🔹 **PHP**
+- Uso: **29.6**
+- Cor: `#4F5D95`
+- Badge: ![PHP](https://img.shields.io/badge/PHP-%234F5D95.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
-Top 8 most used languages across your repositories:
+### 🔹 **Java**
+- Uso: **29**
+- Cor: `#b07219`
+- Badge: ![Java](https://img.shields.io/badge/Java-%23b07219.svg?style=for-the-badge&logo=Java&logoColor=white)
 
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B129.6%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B129%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B120.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B113.2%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B12.4%25)
-![Hack](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23878787&message=Hack%EF%B8%B11.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.8%25)
+### 🔹 **Blade**
+- Uso: **20.3**
+- Cor: `#f7523f`
+- Badge: ![Blade](https://img.shields.io/badge/Blade-%23f7523f.svg?style=for-the-badge&logo=Blade&logoColor=white)
 
-Top 4 most used languages across your repositories:
+### 🔹 **HTML**
+- Uso: **13.2**
+- Cor: `#e34c26`
+- Badge: ![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?style=for-the-badge&logo=HTML&logoColor=white)
 
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B129.6%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B129%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B120.3%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B120.9%25)
+### 🔹 **Other**
+- Uso: **7.7**
+- Cor: `#ededed`
+- Badge: ![Other](https://img.shields.io/badge/Other-%23ededed.svg?style=for-the-badge&logo=Other&logoColor=white)
+
+
+---
+
+> *Atualizado automaticamente com o GitHub Action a cada 12 horas!*
