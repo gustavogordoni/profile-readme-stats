@@ -20,31 +20,13 @@
 
 ## 💻 Linguagens mais usadas
 
-### 🔹 **PHP**
-- Uso: **29.6**
-- Cor: `#4F5D95`
-- Badge: ![PHP](https://img.shields.io/badge/PHP-%234F5D95.svg?style=for-the-badge&logo=PHP&logoColor=white)
-
-### 🔹 **Java**
-- Uso: **29**
-- Cor: `#b07219`
-- Badge: ![Java](https://img.shields.io/badge/Java-%23b07219.svg?style=for-the-badge&logo=Java&logoColor=white)
-
-### 🔹 **Blade**
-- Uso: **20.3**
-- Cor: `#f7523f`
-- Badge: ![Blade](https://img.shields.io/badge/Blade-%23f7523f.svg?style=for-the-badge&logo=Blade&logoColor=white)
-
-### 🔹 **HTML**
-- Uso: **13.2**
-- Cor: `#e34c26`
-- Badge: ![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?style=for-the-badge&logo=HTML&logoColor=white)
-
-### 🔹 **Other**
-- Uso: **7.7**
-- Cor: `#ededed`
-- Badge: ![Other](https://img.shields.io/badge/Other-%23ededed.svg?style=for-the-badge&logo=Other&logoColor=white)
-
+| Linguagem | Uso (%) | Cor | Badge |
+|----------|---------|------|--------|
+| ![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat-square&logo=PHP&logoColor=white) | **29.6%** | `#4F5D95` | 🔹 |
+| ![Java](https://img.shields.io/badge/-Java-%23b07219?style=flat-square&logo=Java&logoColor=white) | **29%** | `#b07219` | 🔹 |
+| ![Blade](https://img.shields.io/badge/-Blade-%23f7523f?style=flat-square&logo=Blade&logoColor=white) | **20.3%** | `#f7523f` | 🔹 |
+| ![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=flat-square&logo=HTML&logoColor=white) | **13.2%** | `#e34c26` | 🔹 |
+| ![Other](https://img.shields.io/badge/-Other-%23ededed?style=flat-square&logo=Other&logoColor=white) | **7.7%** | `#ededed` | 🔹 |
 
 ---
 
