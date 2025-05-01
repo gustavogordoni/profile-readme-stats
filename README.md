@@ -8,12 +8,12 @@
 
 - 🗓️ Conta criada há: **1 anos**
 - 🧵 Issues abertas: **0**
-- 🔀 Pull Requests abertos: **14**
+- 🔀 Pull Requests abertos: **15**
 - 👀 Code Reviews feitos: **0**
-- 🧬 Commits feitos: **376**
+- 🧬 Commits feitos: **378**
 - 📦 Gists públicos: **0**
 - 📚 Repositórios totais: **22**
-- 🤝 Repositórios que contribui: **1**
+- 🤝 Repositórios que contribui: **2**
 - ⭐ Estrelas recebidas: **0**
 
 ---
