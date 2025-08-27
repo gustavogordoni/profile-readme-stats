@@ -14,7 +14,7 @@
 - 📦 Gists públicos: **0**
 - 📚 Repositórios totais: **34**
 - 🤝 Repositórios que contribui: **2**
-- ⭐ Estrelas recebidas: **2**
+- ⭐ Estrelas recebidas: **3**
 
 ---
 
