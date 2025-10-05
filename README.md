@@ -10,7 +10,7 @@
 - 🧵 Issues abertas: **0**
 - 🔀 Pull Requests abertos: **16**
 - 👀 Code Reviews feitos: **0**
-- 🧬 Commits feitos: **625**
+- 🧬 Commits feitos: **636**
 - 📦 Gists públicos: **0**
 - 📚 Repositórios totais: **37**
 - 🤝 Repositórios que contribui: **3**
@@ -20,7 +20,7 @@
 
 ## 💻 Linguagens mais usadas
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B142.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B142.4%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B118.7%25)
 ![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B116.9%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B111.2%25)
