@@ -10,7 +10,7 @@
 - 🧵 Issues abertas: **0**
 - 🔀 Pull Requests abertos: **17**
 - 👀 Code Reviews feitos: **0**
-- 🧬 Commits feitos: **820**
+- 🧬 Commits feitos: **822**
 - 📦 Gists públicos: **0**
 - 📚 Repositórios totais: **40**
 - 🤝 Repositórios que contribui: **3**
