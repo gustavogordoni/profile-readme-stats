@@ -10,9 +10,9 @@
 - 🧵 Issues abertas: **0**
 - 🔀 Pull Requests abertos: **17**
 - 👀 Code Reviews feitos: **0**
-- 🧬 Commits feitos: **823**
+- 🧬 Commits feitos: **827**
 - 📦 Gists públicos: **0**
-- 📚 Repositórios totais: **40**
+- 📚 Repositórios totais: **41**
 - 🤝 Repositórios que contribui: **3**
 - ⭐ Estrelas recebidas: **7**
 
@@ -20,9 +20,9 @@
 
 ## 💻 Linguagens mais usadas
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B139.9%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B118.2%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B116.6%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B139.7%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B118.6%25)
+![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B116.5%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B111.8%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B13.8%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B13.7%25)
