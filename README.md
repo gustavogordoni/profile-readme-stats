@@ -13,7 +13,7 @@
 - 🧬 Commits feitos: **839**
 - 📦 Gists públicos: **0**
 - 📚 Repositórios totais: **41**
-- 🤝 Repositórios que contribui: **4**
+- 🤝 Repositórios que contribui: **3**
 - ⭐ Estrelas recebidas: **7**
 
 ---
