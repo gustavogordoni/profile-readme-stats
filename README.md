@@ -6,7 +6,7 @@
 
 ## 📊 Estatísticas Gerais
 
-- 🗓️ Conta criada há: **2 anos**
+- 🗓️ Conta criada há: **3 anos**
 - 🧵 Issues abertas: **0**
 - 🔀 Pull Requests abertos: **18**
 - 👀 Code Reviews feitos: **0**
